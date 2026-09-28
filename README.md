@@ -50,7 +50,7 @@ I spent the last years keeping 900+ corporate users productive at **Warner Bros.
 
 | Project | Description |
 |---|---|
-| 🧪 **az-104-labs** | Hands-on Azure labs: identity, networking, storage, compute, and monitoring *(in progress)* |
+| 🧪 **[az-104-labs](https://github.com/Yonathan-Zaed/az-104-labs)** | Hands-on Azure labs: identity, networking, storage, compute, and monitoring *(in progress)* |
 | ⚙️ **it-support-scripts** | PowerShell automation for everyday AD and M365 support tasks *(coming soon)* |
 | 📘 **it-runbooks** | Troubleshooting guides based on real service desk scenarios *(coming soon)* |
 
